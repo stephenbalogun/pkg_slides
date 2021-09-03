@@ -1,0 +1,31 @@
+  .title-slide{
+  background-color: #fff
+  }
+
+  #introduction-to-package-development {
+  color: #534e93;
+  font-weight: 600;
+  font-size: 2em;
+  font-family: Pacifico, "Arial Black";
+  text-shadow: 0 0 Black;
+  }
+
+  #stephen-balogun {
+  font-family: "Comic Sans MS";
+  color: #151414;
+  font-weight: 600;
+  text-shadow: 0 0 Black;
+  }
+
+  #september-04-2021 {
+  color: #6f767e
+  }
+
+blockquote {
+  line-height: 2;
+  color: #6f6d6d;
+}
+
+h2 {
+  font-family: "Arial Black";
+}
