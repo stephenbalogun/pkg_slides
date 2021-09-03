@@ -1,2 +1,2 @@
-# pkg_slides
-Slides for introduction to package development for satuRday Nairobi
+# pkg_demo_slides
+Introduction to package development slides presented at SatuRday NairobiR conference
