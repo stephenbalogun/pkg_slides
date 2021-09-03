@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Package Development"
 author: "Stephen Balogun"
-date: '`r format(Sys.Date(), "%B %d, %Y")`'
+date: '`r format(as.Date("2021-09-04"), "%B %d, %Y")`'
 output:
   xaringan::moon_reader:
     self_contained: false
